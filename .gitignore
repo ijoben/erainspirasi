@@ -34,3 +34,7 @@ yarn-error.log*
 
 .contentlayer
 .env
+.vercel
+.env*
+
+/generated/prisma
